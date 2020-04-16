@@ -1,0 +1,17 @@
+[
+  {
+    "image": "../assets/drill.svg",
+    "serviceType": "Repairs",
+    "summary": "General Repairs, Specialist Repairs, & Vintage Parts"
+  },
+  {
+    "image": "../assets/car-seat.svg",
+    "serviceType": "Upholstery",
+    "summary": "A Range of Fabrics, Including Vintage Leathers, & Wide Variety of Colors"
+  },
+  {
+    "image": "../assets/paint-two.svg",
+    "serviceType": "Paintwork",
+    "summary": "Spray paint, Custom Stencilling, & Variety of Custom Made Artwork"
+  }
+]

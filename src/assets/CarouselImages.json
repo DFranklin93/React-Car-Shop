@@ -1,0 +1,22 @@
+[
+  {
+    "item": "challenger-demon",
+    "link": "../assets/challenger-demon.jpg"
+  },
+  {
+    "item": "nissan-350z-hr",
+    "link": "../assets/nissan-350z-hr.jpg"
+  },
+  {
+    "item": "acura-nsx",
+    "link": "../assets/acura-nsx.jpg"
+  },
+  {
+    "item": "mustang-shelby",
+    "link": "../assets/mustang-shelby.jpg"
+  },
+  {
+    "item": "subaru-wrx-hatchback",
+    "link": "../assets/subaru-wrx-hatchback.jpg"
+  }
+]

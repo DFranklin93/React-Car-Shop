@@ -1,0 +1,72 @@
+.services-background {
+  background-image: url("../assets/servicesBG.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#serviceContainer {
+  padding-bottom: 17vw !important;
+}
+
+.container-header {
+  margin: -10px auto 0 auto;
+  padding-top: 17vw;
+  text-align: center;
+  width: 300px;
+}
+
+#serviceSpan {
+  color: white !important;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  padding: 0 0 20px 0;
+  position: relative;
+  text-transform: uppercase;
+}
+
+#serviceSpan:after {
+  background: #fff;
+  bottom: 0;
+  content: " ";
+  height: 3px;
+  left: calc(50% - 10%);
+  position: absolute;
+  width: 20%;
+}
+
+.service-box {
+  display: flex;
+  flex-direction: column;
+  padding: 15vw 0 0 0;
+  width: 100%;
+}
+
+.service-image img {
+  color: white;
+  width: 50px;
+  height: 50px;
+  padding: 0 0px 0 4px;
+}
+
+.service-subheading {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 30px 0 0 4px;
+}
+
+.service-body {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25px;
+  margin: 10px auto 10px auto;
+  padding: 15px 0 0 4px;
+  width: 200px;
+}

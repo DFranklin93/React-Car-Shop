@@ -1,0 +1,28 @@
+.container-header span {
+  color: #000;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  padding: 0 0 20px 0;
+  position: relative;
+  text-transform: uppercase;
+}
+
+.container-header span:after {
+  background: #000;
+  bottom: 0;
+  content: " ";
+  height: 3px;
+  left: calc(50% - 10%);
+  position: absolute;
+  width: 20%;
+}
+
+.container-header p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 40px 0 0 0;
+}
